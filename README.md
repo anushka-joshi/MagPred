@@ -35,6 +35,13 @@ Is used to read the test dataset provided in it. It returns the X_test and y_tes
 def Testing_on_Dataset()
 ```
 Is the function that predicts the magnitude of an earthquake using the MagPred model.
+3. The file named as 'Test_Dataset' is given as input file for prediction of magnitude. The Table represents the name of the features provided in the file and their terminilogy given in manuscript.
+| Column 1 Header | Column 2 Header | Column 3 Header | Column 3 Header |
+| --- | --- | --- | --- |
+| Vs30 Actual | Row 1, Column 2 | PGV UD | Row 1, Column 3 |
+| TAU_P | Row 2, Column 2 | PGD UD | Row 1, Column 3 |
+| TAU_C | Row 3, Column 2 | Row 3, Column 3 | Row 1, Column 3 |
+
 
 # Author
 
