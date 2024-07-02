@@ -7,7 +7,7 @@
 
 <h4 align="center" style="font-size: 5px; font-weight: bold;">Indian Institute of Technology, Roorkee</h4>
 
-<h4 align="center" style="font-size: 5px; font-weight: bold;">March 2023</h4>
+<h4 align="center" style="font-size: 5px; font-weight: bold;">March 2024</h4>
 
 ## Description
 
@@ -150,7 +150,7 @@ Is the function that predicts the magnitude of an earthquake using the MagPred m
 
 - Email: anushka_j@cs.iitr.ac.in
 - LinkedIn: https://www.linkedin.com/in/anushka-joshi-iitr/
-- Website: https://www.anushijoshi.com/
+- Website: https://anushkajoshi.wixsite.com/anushka-joshi
 - Contact address: Machine Vision and Intelligence Labs, IIT Roorkee, 
   Department of Computer Science and Engineering, IIT Roorkee, 
   Uttarakhand, India, 247667; 
