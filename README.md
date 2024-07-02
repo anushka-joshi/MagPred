@@ -7,7 +7,7 @@
 
 <h4 align="center" style="font-size: 5px; font-weight: bold;">Indian Institute of Technology, Roorkee</h4>
 
-<h4 align="center" style="font-size: 5px; font-weight: bold;">March 2024</h4>
+<h4 align="center" style="font-size: 5px; font-weight: bold;">June 2024</h4>
 
 ## Description
 
