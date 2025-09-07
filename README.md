@@ -3,7 +3,7 @@
 
 <p align="center" style="font-size: 15px;">by</p>
 
-<h4 align="center" style="font-size: 5px; font-weight: bolder;">Anushka Joshi, Ph.D.</h4>
+<h4 align="center" style="font-size: 5px; font-weight: bolder;">Dr. Anushka Joshi, Ph.D.</h4>
 
 <h4 align="center" style="font-size: 5px; font-weight: bold;">Indian Institute of Technology, Roorkee</h4>
 
